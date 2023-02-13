@@ -1,0 +1,42 @@
+.information {
+    width: 1496px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.story {
+    width: 1000px;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+.btn-story {
+    width: 100%;
+
+}
+
+.btn-information {
+    top: 1004px;
+    left: 495px;
+    width: 222px;
+    height: 48px;
+    background: #988866 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 2px #00000029;
+    border: 1px solid #988866;
+    opacity: 1;
+    margin-right: 10px;
+    letter-spacing: 0.33px;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 400;
+    
+}
+
+.btn-information:hover {
+    background:#6A5E43
+}
+

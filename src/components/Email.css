@@ -1,0 +1,224 @@
+.e-mail {
+    top: 3315px;
+    left: -15.38671875px;
+    width: 1496px;
+    height: 313px;
+    background: #2D2D2D 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+hr {
+    color: white;
+}
+
+.box-total-email {
+    top: 3408px;
+    left: 142px;
+    width: 581px;
+    height: 220px;
+    /* opacity: 0.05; */
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+}
+
+.box-sub {
+    width: 581px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.box-dl {
+    width: 581px;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #464444;
+    cursor: pointer;
+}
+
+.box-dl:hover {
+    background: #988866;
+}
+
+.box-total {
+    width: 100%;
+    height: 250px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-total-contact {
+    width: 292px;
+    height: 220px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    text-align: center;
+}
+
+.contract-section {
+    width: 520px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.hr-left {
+    height: 218px;
+    width: 0;
+    border: 1px solid #FFFFFF;
+    opacity: 0.14;
+    position: absolute;
+    left: 0;
+}
+
+.btn-sub {
+    top: 3539px;
+    left: 928px;
+    width: 170px;
+    height: 48px;
+    background: #988866 0% 0% no-repeat padding-box;
+    border: 1px solid #988866;
+    opacity: 1;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.btn-sub:hover {
+    color: #988866;
+    background-color: #FFFFFF;
+}
+
+.box-content-email {
+    top: 3431px;
+    left: 147px;
+    width: 379px;
+    height: 47px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #EDEDED;
+    opacity: 1;
+    font-size: 14px;
+}
+
+.box-resort {
+    top: 3421px;
+    left: 919px;
+    width: 292px;
+    height: 22px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #988866;
+    opacity: 1;
+    font-size: 16px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.box-address {
+    top: 3461px;
+    left: 928px;
+    width: 274px;
+    height: 34px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #EDEDED;
+    opacity: 1;
+    font-size: 14px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+
+.box-tel {
+    top: 3506px;
+    left: 981px;
+    width: 167px;
+    height: 14px;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #EDEDED;
+    opacity: 1;
+    font-size: 14px;
+    margin-bottom: 15px;
+    margin-left: 60px;
+}
+
+.btn-email {
+    top: 3539px;
+    left: 928px;
+    width: 278px;
+    height: 48px;
+    background: #988866 0% 0% no-repeat padding-box;
+    border: 1px solid #988866;
+    opacity: 1;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.btn-email:hover {
+    color: #988866;
+    background-color: #FFFFFF;
+}
+
+.box-code {
+    width: 300px;
+    font-size: 20px;
+}
+
+.box-pdf {
+    width: 120px;
+    height: 30px;
+    font-size: 13px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.boxpdf-email {
+    width: 100px;
+    height: 20px;
+}
+
+.bg {
+    width: 100%;
+    height: 50px;
+    background: transparent url('/public/1.Homepage/img-bg.png');
+}
+
+.title-email {
+    width: 100%;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.title-ir {
+    width: 100%;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.hr {
+    width: 1496px;
+    height: 0px;
+    border: 1px solid #707070;
+    opacity: 0.14;
+    position: absolute;
+    top: 3639px;
+}

@@ -1,0 +1,152 @@
+.download {
+    width: 1496px;
+    height: 439px;
+    opacity: 1;
+    background: transparent url('/public/1.Homepage/img-quickdownload.jpg');
+}
+
+.box-total-download {
+    width: 1500px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.title-download {
+    top: 2949px;
+    left: 579px;
+    width: 100%;
+    height: 41px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.box-download {
+    top: 3035px;
+    left: 140px;
+    width: 278px;
+    height: 198px;
+    background: #000000 0% 0% no-repeat padding-box;
+    border: 1px solid #988866;
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.box-download:hover {
+    width: 290px;
+    height: 210px;
+}
+
+.box-icon {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.icon-ar {
+    opacity: 1;
+}
+
+.total-box {
+    width: 1500px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-bottom: 20px;
+}
+
+.box-investor {
+    width: 80px;
+    height: 26px;
+    display: flex;
+    justify-content: center;
+    color: #FFFFFF;
+    font-size: 13px;
+}
+
+.box-total-investor {
+    width: 100%;
+    height: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.icon-arrow {
+    width: 18px;
+    height: 16px;
+    display: flex;
+    padding-bottom: 5px;
+}
+
+.box-title-download {
+    top: 3123px;
+    left: 1020px;
+    width: 280px;
+    height: 51px;
+    text-align: center;
+    letter-spacing: -0.24px;
+    color: #988866;
+    opacity: 1;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.title-name {
+    width: 100%;
+    height: 25px;
+}
+
+.box-year {
+    width: 100%;
+    height: 25px;
+}
+
+.box-pdf-dl {
+    width: 100%;
+    height: 18px;
+    color: #FFFFFF;
+    opacity: 1;
+    font-size: 13px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.boxpdf {
+    width: 100px;
+    height: 18px;
+}
+
+.icon-dl {
+    width: 18px;
+    height: 18px;
+}
+
+.box-in-ar {
+    width: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    cursor: pointer;
+}
+
+
